@@ -1,0 +1,31 @@
+{
+  "name": "node_02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ansi-styles": "^4.3.0",
+    "chalk": "^4.1.2",
+    "cities": "^2.0.0",
+    "color-convert": "^2.0.1",
+    "color-name": "^1.1.4",
+    "has-flag": "^4.0.0",
+    "haversine": "^1.1.1",
+    "lodash": "^4.17.21",
+    "supports-color": "^7.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/200038-kikuchi/ig21_node_02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/200038-kikuchi/ig21_node_02/issues"
+  },
+  "homepage": "https://github.com/200038-kikuchi/ig21_node_02#readme"
+}
